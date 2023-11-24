@@ -1,0 +1,40 @@
+body {
+  font-family: 'Satoshi', sans-serif;
+}
+
+/* Satoshi */
+@font-face {
+  font-family: 'Satoshi';
+  src:
+    url('https://d15gkqt2d16c1n.cloudfront.net/web-fonts/fonts/Satoshi-Medium.woff2')
+      format('woff2'),
+    url('https://d15gkqt2d16c1n.cloudfront.net/web-fonts/fonts/Satoshi-Medium.woff') format('woff'),
+    url('https://d15gkqt2d16c1n.cloudfront.net/web-fonts/fonts/Satoshi-Medium.ttf')
+      format('truetype');
+  font-weight: 500;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Satoshi';
+  src:
+    url('https://d15gkqt2d16c1n.cloudfront.net/web-fonts/fonts/Satoshi-Bold.woff2') format('woff2'),
+    url('https://d15gkqt2d16c1n.cloudfront.net/web-fonts/fonts/Satoshi-Bold.woff') format('woff'),
+    url('https://d15gkqt2d16c1n.cloudfront.net/web-fonts/fonts/Satoshi-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Satoshi';
+  src:
+    url('https://d15gkqt2d16c1n.cloudfront.net/web-fonts/fonts/Satoshi-Black.woff2') format('woff2'),
+    url('https://d15gkqt2d16c1n.cloudfront.net/web-fonts/fonts/Satoshi-Black.woff') format('woff'),
+    url('https://d15gkqt2d16c1n.cloudfront.net/web-fonts/fonts/Satoshi-Black.ttf')
+      format('truetype');
+  font-weight: 900;
+  font-display: swap;
+  font-style: normal;
+}
